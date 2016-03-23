@@ -79,3 +79,6 @@ thead{
 	margin:0 auto;
     max-width:459px;
 }
+.message-form input{
+    width:100%;
+}
